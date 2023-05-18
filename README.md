@@ -1,4 +1,3 @@
-ㅅㄷㅅㄷㅅ
 
 
 # Distributed Machine Learning with Python
